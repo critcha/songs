@@ -1,58 +1,60 @@
-[Original in C#m = Am + capo
-[Or Bm + capo
+[Original in E/C#m = D/Bm + capo
 
 (Verse)
-[Am _ , G _ (Em), Dm _ (Em), F] x2
+[Bm _ , A _ (Dm), Em _ (F#m), G] x2
 I see ya blowin' me a kiss, it doesn't take a scientist
 To understand what's going on baby
 If you see something in my eye, let's not over analyze
 ... don't go too deep with it baby
 
 (Pre-chorus)
-[Dm (Em), F, Am, G (Em)] x2 
+[Em (F#), G, Bm, A (Dm)] x2 
 So let it be what it'll be, don't make a fuss and get 
 crazy over you and me.... mmm
 Here's what I'll do, I'll play the wuss, not like we 
 have a date with destiny
 
 (Chorus)
-[Dm (Em), F, Am, G] x2
+[Em (F#m), G, Bm, A] x2
 It's just a little crush (crush)
 Not like I faint every time we touch
 It's just some little thing (crush)
 Not like everything I do depends on you
 
 [4 bars instrumental
-[Dm (Em), F, Am, G] x2
-[. . c c | cb.a.age | . . g g | ge.a   
+[Em (F#), G (A), Bm (D), A (D)] x2
+[. . 8 8 | 87.6.653 | . . 5 5 | 53.6   
 
 (Verse)
-[Am _ , G _ (Em), Dm _ (Em), F] x2
+[Bm _ , A _ (Dm), Em _ (F#m), G] x2
 It's raising my adrenaline, you're banging on a heart of tin
 Please don't make too much of it baby
 You say the word "forevermore", t hat's not what I'm looking for
 All I can commit to is "maybe"
 
 (Pre-chorus)
-[Dm (Em), F, Am, G (Em)] x2 
+[Em (F#), G, Bm, A (Dm)] x2 
 So let it be what it'll be, don't make a fuss and get 
 crazy over you and me.... mmm
 Here's what I'll do, I'll play the wuss, not like we 
 have a date with destiny
 
 (Chorus)
+[Em (F#m), G, Bm, A] x2
 It's just a little crush (crush)
 Not like I faint every time we touch
 It's just some little thing (crush)
 Not like everything I do depends on you
 Sha-la-la-la, sha-la-la-la
 
-[Dm (Em), F (Em), Dm, (Em) F, 
-
+[Em (F#), G (F#m), Em, (F#) G, 
+[6    8 9
 Vanilla skies (vanilla skies)
+[6    8      3^ 9 8 7  8    7    
 White picket fences in your eyes
 
 [Am, Gm (Em) Dm (Em), F
+[6    8  3^ 8   3^8 9   
 A vision of you and me
 
 

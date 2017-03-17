@@ -1,6 +1,8 @@
 [Original in F
 
-[Dm,F,Am,Bb x2
+(Verse 1)
+
+[|Dm,|F,|Am,|Bb x2
 [a d a d a c a c..
 We 
 clawed, we chained our hearts in vain, we jumped 
@@ -8,11 +10,15 @@ _ _ never asking why _ _ we
 kissed, I fell under your spell, a love 
 _ _ no one could deny
 
+(Pre-chorus)
+
 [Bb,Dm,F,Bb x2
 Don't you ever say I just walked away
 I will always want you
 I can't live a lie, running for my life
 I will always want you
+
+(Chorus)
 
 [F,C,Dm,Bb x2, Dm,Bb
 ... I came in like a 
@@ -22,16 +28,26 @@ break your walls _ _ all you ever did was
 _ _ wreck _ me _ _ yeah you
 _ , you wreck _ me
 
+(Verse 2)
+
+[Dm,F,Am,Bb x2
 I 
 put you high up in the sky and now, 
 _ _ you're not coming down _ _ it 
 slowly turned, you let me burn and now
 _ , we're ashes on the ground
 
+(Pre-chorus)
+
+[Bb,Dm,F,Bb x2
 Don't you ever say I just walked away
 I will always want you
 I can't live a lie, running for my life
 I will always want you
+
+(Chorus)
+
+[F,C,Dm,Bb x2, Dm,Bb
 
 ... I came in like a 
 wrecking ball _ _ _ I never hit so 
@@ -40,6 +56,8 @@ break your walls _ _ all you ever did was
 _ _ wreck _ me
 
 x2
+
+[F,C,Dm,Bb x2, Dm,Bb
 
 ... I never meant to 
 start a war _ _ I just wanted you to 

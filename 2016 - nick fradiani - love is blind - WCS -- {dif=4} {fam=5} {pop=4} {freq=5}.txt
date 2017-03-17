@@ -1,6 +1,6 @@
 [Original in C
 
-[Am, G_B, C, .
+[C, G_B, Am, .
 [F, C, F, G
 
 I've never lived a simple life

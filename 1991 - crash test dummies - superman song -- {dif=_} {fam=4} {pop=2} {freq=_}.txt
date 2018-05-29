@@ -1,19 +1,27 @@
-[Play in D = C with capo]
+[Original in Bb = G  cap
 
-F,C,F,C
+(Verse 1)
+
+[C,G,C,G,C,G,C,G
 Tarzan wasn't a ladies' man
-He'd just come along and scoop 'em up under his arm
-Like that, quick as a cat in the jungle
+He'd just come along and scoop 'em up under his 
+[Em,D,Em,D,Am,
+arm ike that, quick as a cat in the jungle
+
 But Clark Kent, now there was a real gent
 He would not be caught sittin' around in no
 Junglescape, dumb as an ape doing nothing
 
-[Chorus:]
+(Chorus)
+
+[C,D,G,D_F#,Em
+[G,C,G,C,D,D7
 Superman never made any money
 For saving the world from Solomon Grundy
-C,F,C,F,G
 And sometimes I despair the world will never see
 Another man like him
+
+(Verse 2)
 
 Hey Bob, Supe had a straight job
 Even though he could have smashed through any bank
@@ -22,9 +30,24 @@ Folks said his family were all dead
 Their planet crumbled but Superman, he forced himself
 To carry on, forget Krypton, and keep going
 
-Am,G,Am,G,F,Em,G
+(Chorus)
+
+[C,D,G,D_F#,Em
+[G,C,G,C,D,D7
+Superman never made any money
+For saving the world from Solomon Grundy
+And sometimes I despair the world will never see
+Another man like him
+
+(Bridge)
+
+[Em,D,Em,D,C,G,D
+[Em,D,Em,D,C,G,C,G,D 
+
 Tarzan was king of the jungle and Lord over all the apes
 But he could hardly string together four words: "I Tarzan, You Jane."
+
+(Verse 3)
 
 Sometimes when Supe was stopping crimes
 I'll bet that he was tempted to just quit and turn his back
@@ -32,3 +55,17 @@ On man, join Tarzan in the forest
 But he stayed in the city, and kept on changing clothes
 In dirty old phonebooths till his work was through
 And nothing to do but go on home
+
+(Chorus)
+
+[C,D,G,D_F#,Em
+[G,C,G,C,D,D7
+Superman never made any money
+For saving the world from Solomon Grundy
+And sometimes I despair the world will never see
+Another man like him 
+
+[Em,C,Em,C,D,D7,G
+And sometimes I despair the world will never see
+Another man like him 
+Mmmmmm

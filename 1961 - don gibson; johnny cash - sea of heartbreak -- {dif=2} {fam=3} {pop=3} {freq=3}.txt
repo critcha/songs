@@ -1,11 +1,11 @@
-Original in  G, somewhatarranged
+[Original in  G, somewhat arranged
 
 The lights in the harbor,
 Don't shine for me.
 I'm like a lost ship,
 Adrift on the sea.
 
-G,D-D7,G-G7,C-(Cm),G,D
+[G,D-D7,G-G7,C-(Cm),G,D
 The sea of heartbreak, 
 lost love and loneliness,
 Memories of your caress.
@@ -27,9 +27,10 @@ You were mine again my dear.
 I'm on this sea of tears,
 The sea of heartbreak.
 
-C,G,C,B7...
+[C,G,C,B7...
 (e  e    e   e    f# e  d    d    a  bag)
 Oh, what I'd give -- to sail back to shore,
+
 (g                ag   b   )
 Back to your arms once more.
 

@@ -1,54 +1,68 @@
-original = A = G+capo
-|G = bar chord, or gbdbd(e)
+[original = A = G+capo
+[play in C
 
+[VERSE 1:
 [Treble only:
-|G,Bm,Em,C
+[C,Em,Am,C
 I heard that you're settled down
-That you found a girl and you're married now
+That you found the one and you're married now
+
 [with bass:
-[G,|Bm,Em,C
+[C,Em,Am,C
 I heard that your dreams came true
-Guess she gave you things I didn't give to you
+Guess you found the things I couldn't give to you
 
 Old friend, why are you so shy?
 Ain't like you to hold back or hide from the light
 
-Bm,Em,C,G
-Bm,Em,C,CM7,C,CM7
+PRE-CHORUS:
+[Em,Am,F
+[Em,Am,F,FM7,C,CM7
 I hate to turn up out of the blue, uninvited
 But I couldn't stay away, I couldn't fight it
 I had hoped you'd see my face and that you'd be reminded
 That for me, it isn't over
 
-G,D,Em,C
+CHORUS:
+[C,G,Am,F
 Never mind, I'll find someone like you
 I wish nothing but the best for you, too
 Don't forget me, I beg, I remember you said
 Sometimes it lasts in love, but sometimes it hurts instead
 Sometimes it lasts in love, but sometimes it hurts instead
 
+VERSE 2:
+[C,Em,Am,C
 _ _ You know how the time flies, only 
 _ _ yesterday was the time of our lives, we were 
 born and raised in a summer haze, bound 
 by the surprise of our glory days
 
+PRE-CHORUS:
+[Em,Am,F
+[Em,Am,F,FM7,C,CM7
 I hate to turn up out of the blue, uninvited
 But I couldn't stay away, I couldn't fight it
 I had hoped you'd see my face and that you'd be reminded
 That for me, it isn't over
 
+CHORUS:
+[C,G,Am,F
 Never mind, I'll find someone like you
 I wish nothing but the best for you, too
 Don't forget me, I beg, I remember you said
 Sometimes it lasts in love, but sometimes it hurts instead, yeah
 
-Bm,Em,C,Em,
-Bm,Em,Am,Bm,C
+BRIDGE:
+[Em,Am,F,Am,
+[Em,Am,Dm,Em,F
 Nothing _ compares, no worries _ or cares, re -
 grets and mistakes, they're memories made.
 Who would have known how _ _ bitter - 
 Sweet _ _ _ this _ would _ taste?
 
+CHORUS:
+[C,G,Am,F
 Never mind, I'll find someone like you
 I wish nothing but the best for you
 Don't forget me, I beg, I remember you said

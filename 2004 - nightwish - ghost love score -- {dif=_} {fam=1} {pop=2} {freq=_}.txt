@@ -1,20 +1,20 @@
+Intro:
+[Original starting in Dm = C#m+capo
+[C#m, A, B ...
+[Em, C, D,
+[C#m, A, B ...
+[Em, C, D,
 
+[## capo change: 1st fret
+[F = E+capo
 
-
-
-
-
-
-
-
-
-
-
-
-
+[E, D, E, F-E
 We used to swim the same moonlight waters
 Oceans away from the wakeful day
 
+[Bbm = Am+capo
+[Am, G, F, A,
+[Am, G, Dm, E,
 - My fall will be for you -
 My fall will be for you
 My love will be in you
@@ -25,8 +25,9 @@ My love will be in you
 If you be the one to cut me
 I`ll bleed forever
 
+[E, D, E, F-E
 Scent of the sea before the waking of the world
-Brings me to thee nto the blue memory
+Brings me to thee into the blue memory
 
 - My fall will be for you -
 My fall will be for you
@@ -38,9 +39,12 @@ My love will be in you
 If you be the one to cut me
 I`ll bleed forever
 
+[Dm, C, G, Am
 Into the blue memory
 
-A siren from the deep came to me 
+[Am, G, Am, D
+[Em, Bm, Am, Em, C, D, Em
+A siren from the deep came to me
 Sang my name my longing
 Still I write my songs about that dream of mine
 Worth everything I may ever be
@@ -51,7 +55,7 @@ First of them true loves
 Singing on the shoulders of an angel
 Without care for love and loss
 
-Bring me home or leave me be 
+Bring me home or leave me be
 My love in the dark heart of the night
 I have lost the path before me
 The one behind will lead me
@@ -82,9 +86,8 @@ Time to never hold our love
 My fall will be for you
 My love will be in you
 You were the one to cut me
-So I`ll bleed forever 
+So I`ll bleed forever
 My fall will be for you
 My love will be in you
 You were the one to cut me
 So I`ll bleed forever....
-
